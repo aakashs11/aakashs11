@@ -34,13 +34,13 @@ My work revolves around making NLP systems more interactive, goal-driven, and us
 
 | Project | Description |
 |--------|-------------|
-| [🧩 Sales Simulation Engine](https://aakashs11.github.io) | Prompt-tuned LLMs trained on sales personas. Used GradSUM for guardrails. Built a simulator that improved sales onboarding and training. |
-| [🧠 Feedback Matching System](#) | Contrastive learning + transformer encoders to generate training feedback. Helped automate coaching workflows using BERT embeddings. |
+| 🧩 Sales Simulation Engine) | Prompt-tuned LLMs trained on sales personas. Used GradSUM for guardrails. Built a simulator that improved sales onboarding and training. |
+| 🧠 Feedback Matching Syste] | Contrastive learning + transformer encoders to generate training feedback. Helped automate coaching workflows using BERT embeddings. |
 | [🖐️ Sign Language Recognition](https://github.com/aakashs11/Gesture-recognization-Sign-Language-Interpretation) | Built a real-time gesture-to-text classifier using VGG/Xception on 80K images. Explored transfer learning and spatial classification. |
 | [🤖 RAG QA Chatbot](https://github.com/aakashs11/telegram-bot-akask) | Multilingual QA bot using OpenAI + FAISS + FastAPI. Dense vector search integrated with generation for contextual answers. |
-| [🎧 Weld Quality Detection](#) | Decision tree classifier using acoustic arc signals. Learned classical ML and signal processing in manufacturing diagnostics. |
+| 🎧 Weld Quality Detection | Decision tree classifier using acoustic arc signals. Learned classical ML and signal processing in manufacturing diagnostics. |
 
----
+--- 
 
 ### 🛠 Tech Stack
 
