@@ -33,11 +33,12 @@ My work revolves around making NLP systems more interactive, goal-driven, and us
 
 - **AI/NLP Engineer @ [Nytro](https://www.nytro.ai)** *(acquired by [MarketStar](https://www.marketstar.com))*  
   *May 2022 – Jan 2025*  
-
+  Designed learning & development platform for clients such as **Google Cloud**, **DoorDash**, and **TikTok**. 
 
 - **Content Manager @ [Unacademy](https://unacademy.com)**  
   *2021 – 2022*  
-  
+  Used learner analytics to drive syllabus updates and content publishing for learning platform and Youtube channels.
+
 ---
 ### 📌 Featured Projects
 
