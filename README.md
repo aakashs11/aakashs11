@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aakash Singh</h1>
+<h1 align="center"> Aakash Singh</h1>
 <p align="center">
   <i>Applied AI Engineer • NLP & LLM Systems • Educator</i>
 </p>
@@ -19,7 +19,7 @@ My work revolves around making NLP systems more interactive, goal-driven, and us
 
 ---
 
-### 🚀 My Focus Areas
+###  My Focus Areas
 
 - Applied Natural Language Processing (NLP)
 - Prompt Engineering & Simulation Design
@@ -49,15 +49,6 @@ My work revolves around making NLP systems more interactive, goal-driven, and us
 | [🖐️ Sign Language Recognition](https://github.com/aakashs11/Gesture-recognization-Sign-Language-Interpretation) | Built a real-time gesture-to-text classifier using VGG/Xception on 80K images. Explored transfer learning and spatial classification. |
 | [🤖 RAG QA Chatbot](https://github.com/aakashs11/telegram-bot-akask) | Multilingual QA bot using OpenAI + FAISS + FastAPI. Dense vector search integrated with generation for contextual answers. |
 | 🎧 Weld Quality Detection | Decision tree classifier using acoustic arc signals. Learned classical ML and signal processing in manufacturing diagnostics. |
-
---- 
-
-### 🛠 Tech Stack
-
-- **Languages**: Python, JavaScript (basic), SQL, HTML
-- **Frameworks**: FastAPI, Streamlit, Flask, PyTorch, TensorFlow
-- **LLM Tools**: HuggingFace Transformers, LangChain, GradSUM, FAISS, OpenAI API
-- **DevOps**: Docker, GCP, GitHub Actions, Postman, VS Code
 
 ---
 
