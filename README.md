@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-I'm a pragmatic engineer with a background in metallurgy and a pivot into applied AI.  
+I'm a pragmatic engineer with a background in metallurgy and a strong pivot into applied AI.  
 My work revolves around making NLP systems more interactive, goal-driven, and useful in real-world learning and development contexts.  I love designing LLM workflows, prompt strategies, RAG pipelines, and feedback tools that emulate human-like behavior.
 
 ---
