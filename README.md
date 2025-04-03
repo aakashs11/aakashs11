@@ -69,5 +69,4 @@ My work revolves around making NLP systems more interactive, goal-driven, and us
 
 ---
 
-> 💡 *"I don’t just build AI systems — I build systems that teach, adapt, and scale conversations that matter."*
 
